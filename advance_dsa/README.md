@@ -42,4 +42,10 @@ Advance Python with OOP  and DSA
 3. **Advanced Problems**
    - Median of Two Sorted Arrays
 
+4. **LinkedList Problems**
+   - 141 Linked List Cycle: <https://leetcode.com/problems/linked-list-cycle/description/>
+   - 142 Linked List Cycle II: <https://leetcode.com/problems/linked-list-cycle-ii/description/>
+   - 876 Middle of the Linked List <https://leetcode.com/problems/middle-of-the-linked-list/description>
+   - 19 Remove Nth Node From End of List <https://leetcode.com/problems/remove-nth-node-from-end-of-list/description>
+
 ---
