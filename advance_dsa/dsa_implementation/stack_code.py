@@ -1,4 +1,4 @@
-
+import unittest
 
 class Node:
 	def __init__(self, value):
@@ -38,7 +38,17 @@ class Stack:
 		self.height -=1
 		return temp 
 		
+class TestStack(unittest.TestCase):
+	def test_basic_operation(self):
+		stack = Stack(10) 
+		self.assertEqual(stack.top.value, 10)
 
+		stack.push(20)
+		self.assertEqual(stack.top.value, 20)
+		
+		popped = stack.pop()
+		self.assertEqual(popped.value, 20)
+		self.assertEqual(stack.top.value, 10)
 
 def main():
 	mystack = Stack(4)

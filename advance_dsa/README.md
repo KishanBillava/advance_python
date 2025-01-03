@@ -48,4 +48,13 @@ Advance Python with OOP  and DSA
    - 876 Middle of the Linked List <https://leetcode.com/problems/middle-of-the-linked-list/description>
    - 19 Remove Nth Node From End of List <https://leetcode.com/problems/remove-nth-node-from-end-of-list/description>
 
+5. **Stack Problems**
+   - 20 Valid Parentheses: <https://leetcode.com/problems/valid-parentheses/description>
+
+6. **Queue Problems**
+   - 20 Valid Parentheses: <https://leetcode.com/problems/valid-parentheses/description>
+
+7. **Union Find Problems**
+   - 128 Longest Consecutive Sequence <https://leetcode.com/problems/longest-consecutive-sequence/description>
+
 ---
